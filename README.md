@@ -1,0 +1,2 @@
+# Jago22
+Konfig
