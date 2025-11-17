@@ -2,7 +2,7 @@
 # See: https://circleci.com/docs/reference/configuration-reference
 version: 2.1
 
-# Define a job to be invoked later in a workflow.
+# Define a job to be invoked later in a workflow.5689534f-19c6-4554-8ab8-7ae249a31418
 # See: https://circleci.com/docs/guides/orchestrate/jobs-steps/#jobs-overview & https://circleci.com/docs/reference/configuration-reference/#jobs
 jobs:
   build:
@@ -52,4 +52,4 @@ workflows:
   sample: # This is the name of the workflow, feel free to change it to better match your workflow.
     # Inside the workflow, you define the jobs you want to run.
     jobs:
-      - build5689534f-19c6-4554-8ab8-7ae249a31418
+      - build
