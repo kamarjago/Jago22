@@ -1,2 +1,2 @@
-# Jago22
+#jago22
 Konfig
